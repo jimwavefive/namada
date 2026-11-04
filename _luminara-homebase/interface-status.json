@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-11-03T22:25:03.667980+00:00Z",
-    "script_end_time": "2026-11-03T22:36:15.493045+00:00Z",
+    "script_start_time": "2026-11-04T02:29:40.868122+00:00Z",
+    "script_end_time": "2026-11-04T02:41:04.639544+00:00Z",
     "reference_latest_block_height": "8517986",
     "housefire_reference_latest_block_height": "0",
     "required_versions": {
@@ -95,12 +95,12 @@
                         {
                             "service": "rpc",
                             "url": "https://rpc-namada.5elementsnodes.com",
-                            "status": "up",
-                            "version": "0.37.16",
+                            "status": "down",
+                            "version": "n/a",
                             "is_up_to_date": false,
-                            "namada_version": "201.0.12",
-                            "latest_block_height": "8517986",
-                            "sync_state": "sync_ok"
+                            "namada_version": "n/a",
+                            "latest_block_height": "0",
+                            "sync_state": "sync_nok"
                         }
                     ]
                 },
